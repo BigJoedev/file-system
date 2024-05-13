@@ -26,5 +26,4 @@ uploadFile(@UploadedFile(
   console.log(file);
 }
 
-
 }
